@@ -36,7 +36,7 @@ int main() {
             }
         }
         if(!found)
-        {
+        { 
             vector<int> diff;
             for(int j=0; j < varray.size(); j++)
             {
