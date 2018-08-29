@@ -6,7 +6,7 @@
 #include <math.h>
 using namespace std;
 
-
+//http://www.cplusplus.com/reference/algorithm/lower_bound/
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int size=0, querysize=0, sdigit=0, temp=0;
